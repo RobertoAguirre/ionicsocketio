@@ -1,0 +1,7 @@
+{
+  "name": "ngx-socket-io",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
